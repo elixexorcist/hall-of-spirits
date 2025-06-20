@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
   color: #f8f8f8;
   background: linear-gradient(#000000, #1a1a1a);
   line-height: 1.6;
@@ -17,7 +17,7 @@ header {
 }
 
 header h1 {
-  font-family: 'Creepster', cursive;
+  font-family: 'Roboto', sans-serif;
   font-size: 3rem;
   color: var(--accent-color);
   margin: 0;
